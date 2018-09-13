@@ -1,0 +1,4 @@
+ng new my-project --style=scss --routing
+
+// --style=scss --routing 
+// These Are the flags used during creation of project
